@@ -1,0 +1,1 @@
+This is an app that will help me assess properties on the market against my personal property criteria.
