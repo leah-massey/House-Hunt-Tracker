@@ -1,0 +1,1 @@
+Friday: two-minute recap of HTTP from memory, then generate the Spring Boot project at start.spring.io (Kotlin, Gradle, Web only) and write GET /health.
